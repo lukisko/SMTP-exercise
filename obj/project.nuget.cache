@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qubKtjkQb2gCWpYMuDd2ev/JA1X7QMv1ncw8tVsuStxnqaieAvocUTh20MiFuDZJ9DsI6DI6HBm3XpyG93uqiw==",
+  "success": true,
+  "projectFilePath": "/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/SMTP-exercise.csproj",
+  "expectedPackageFiles": [
+    "/home/lukisko/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/bin/Debug/net6.0/SMTP-exercise
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/bin/Debug/net6.0/SMTP-exercise.deps.json
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/bin/Debug/net6.0/SMTP-exercise.runtimeconfig.json
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/bin/Debug/net6.0/SMTP-exercise.dll
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/bin/Debug/net6.0/ref/SMTP-exercise.dll
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/bin/Debug/net6.0/SMTP-exercise.pdb
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/SMTP-exercise.csproj.AssemblyReference.cache
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/SMTP-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/SMTP-exercise.AssemblyInfoInputs.cache
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/SMTP-exercise.AssemblyInfo.cs
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/SMTP-exercise.csproj.CoreCompileInputs.cache
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/SMTP-exercise.dll
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/ref/SMTP-exercise.dll
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/SMTP-exercise.pdb
+/run/media/lukisko/Windows-SSD/VIA/SEMESTER3/NES1/SMTP-exercise/SMTP-exercise/obj/Debug/net6.0/SMTP-exercise.genruntimeconfig.cache
