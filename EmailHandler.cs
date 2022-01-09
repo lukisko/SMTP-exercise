@@ -15,7 +15,7 @@ namespace business_logic.Model
             MailMessage mail = new MailMessage();
             SmtpClient mailClient = new SmtpClient("smtp.mail.com");
 
-            mail.From = new MailAddress("lukas.pleva@mail.com");
+            mail.From = new MailAddress(username);
             mail.To.Add(EmailAddress);
             mail.Subject = title;
             mail.Body = content;
